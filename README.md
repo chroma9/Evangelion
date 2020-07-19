@@ -1,2 +1,2 @@
-# evangelion
+# Evangelion
 Discord's EVA Simulation
