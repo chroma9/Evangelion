@@ -1,0 +1,26 @@
+{
+  "name": "evangelion-bot",
+  "version": "0.0.0-alpha",
+  "description": "Discord's EVA Simulation",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc --rootDir source --outDir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chroma9/Evangelion.git"
+  },
+  "author": "Chroma9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chroma9/Evangelion/issues"
+  },
+  "homepage": "https://github.com/chroma9/Evangelion#readme",
+  "dependencies": {
+    "@types/node": "^14.0.23",
+    "chalk": "^4.1.0",
+    "eris": "^0.13.3",
+    "nedb": "^1.8.0",
+    "typescript": "^3.9.7"
+  }
+}
